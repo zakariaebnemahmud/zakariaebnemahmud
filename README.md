@@ -24,17 +24,17 @@ I AM AN ENTRY-LEVEL FREELANCER FROM BANGLADESH, FOCUSING ON PYTHON-BASED SECURIT
 
 <p align="left">
   <!-- ফেসবুক বাটন -->
-  <a href="https://facebook.comার_ফেসবুক_ইউজারনেম" target="_blank">
+  <a href="https://facebook.com" target="_blank">
     <img src="https://shields.io" alt="Facebook" />
   </a>
   
   <!-- টেলিগ্রাম বাটন -->
-  <a href="https://t.meার_টেলিগ্রাম_ইউজারনেম" target="_blank">
+  <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Telegram" />
   </a>
 
   <!-- লিঙ্কডইন বাটন -->
-  <a href="https://linkedin.comার_লিঙ্কডইন_ইউজারনেম" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </p>
