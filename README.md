@@ -5,6 +5,7 @@ SILENT MASK is a platform where we work together for our society and our country
 ### 📌 KNOW 🤔
 
 * 💻 I'm currently working on: **Cyber Security Tools**
+*  - 🌱 I’m currently learning: **Advanced Penetration Testing**
 * 💬 Ask me about: **Python, Termux, and SEO**
 * 📧 How to reach me: **Click on the Links below**
 * 🔒 Pronouns: **Us / them**
@@ -26,6 +27,13 @@ I AM AN ENTRY-LEVEL FREELANCER FROM BANGLADESH, FOCUSING ON PYTHON-BASED SECURIT
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 
 ---
+
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### 🛠️ Skills
 
