@@ -1,46 +1,75 @@
-# ⚡ SILENT MASK 🔥
+<h1 align="center">⚡ SILENT MASK 🔥</h1>
 
-SILENT MASK is a platform where we work together for our society and our country. We are one. We believe in peace and hardwork, stay with us to get more useful tools.
+<p align="center">
+  We work together for our society and our country. We are one.<br/>
+  We believe in peace and hard work — stay with us to get more useful tools.
+</p>
 
-### 📌 KNOW 🤔
-
-* 💻 I'm currently working on: **Cyber Security Tools**
-*  - 🌱 I’m currently learning: **Advanced Penetration Testing**
-* 💬 Ask me about: **Python, Termux, and SEO**
-* 📧 How to reach me: **Click on the Links below**
-* 🔒 Pronouns: **Us / them**
-* ⚡ Fun fact: **YOU ARE A TERMINATOR 😎**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=silentmask&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 📝 ABOUT US
+## 📌 About Me
 
-I AM AN ENTRY-LEVEL FREELANCER FROM BANGLADESH, FOCUSING ON PYTHON-BASED SECURITY TOOLS AND AUTOMATION. WE ALSO MAINTAIN TERMUX LEARNING GROUP, YOU CAN JOIN US.
+- 💻 Currently working on: **Cyber Security Tools**
+- 🌱 Currently learning: **Advanced Penetration Testing**
+- 💬 Ask me about: **Python, Termux, and SEO**
+- 📫 How to reach me: see the links below
+- ⚡ Fun fact: **I turn coffee into code.**
 
-### 🛡️ WE WORK TO PROTECT OUR SOCIETY.
+We're an entry-level freelancer team from Bangladesh, focused on Python-based security tools and automation. We also run a **Termux Learning Group** — join us!
 
----
-
-### 🔗 Connect with me:
-[![Facebook](https://shields.io)](https://facebook.com)
-[![Telegram](https://shields.io)](https://t.me)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-
----
-
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-### 🛠️ Skills
-
-* **PYTHON AND TERMUX...**
-* **CYBERSECURITY RESEARCHER & TOOL DEVELOPER**
+> 🛡️ **We work to protect our society.**
 
 ---
 
-### 📊 GitHub Stats
-![Silent Mask's GitHub stats](https://vercel.app)
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://t.me/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=green" alt="Termux"/>
+  <img src="https://img.shields.io/badge/Bash%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+
+## 🧠 Skills
+
+- Python & Termux automation
+- Security tool development & research
+- SEO fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting — let's build something secure together! 🚀</i>
+</p>
