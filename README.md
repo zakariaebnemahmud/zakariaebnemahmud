@@ -1,4 +1,4 @@
-<h1 align="center">⚡ SILENT MASK 🔥</h1>
+<h1 align="center">⚡ ZAKARIA EBNE MAHMUD 🔥</h1>
 
 <p align="center">
   We work together for our society and our country. We are one.<br/>
@@ -28,13 +28,13 @@ We're an entry-level freelancer team from Bangladesh, focused on Python-based se
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <a href="https://facebook.com/zakaria.mahmud725" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://t.me/YOUR_USERNAME" target="_blank">
+  <a href="https://t.me/@Zakaria12J" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/zakariaebnemahmud" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
